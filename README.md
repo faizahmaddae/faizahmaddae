@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Wordpress,laravel,flutter
+- 🔭 I’m currently working on Wordpress, laravel, flutter
 - 🌱 I’m currently learning AI...
 - 👯 I’m looking to collaborate on flutter, django, python, java, swift
 - 🤔 I’m looking for help with ...
