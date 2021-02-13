@@ -12,8 +12,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=faizahmaddae&show_icons=true&count_private=true&theme=radical)
-<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=faizahmaddae&show_icons=true&count_private=true&theme=radical)<br>
 Outside of [GitHub](https://github.com/faizahmaddae/), You can **find me. Currently I'm **free to contribute**
 [![Twitter: Faiz Ahmad](https://img.shields.io/twitter/follow/faizdae?style=social)](https://twitter.com/faizdae)
 [![Linkedin: Faiz Ahmad](https://img.shields.io/badge/-faizahmaddae-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faiz-ahmad-dae-17b74a174/)](https://www.linkedin.com/in/faiz-ahmad-dae-17b74a174/)
