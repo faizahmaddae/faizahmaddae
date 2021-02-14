@@ -17,4 +17,4 @@ Outside of [GitHub](https://github.com/faizahmaddae/), You can **find me. Curren
 [![Twitter: Faiz Ahmad](https://img.shields.io/twitter/follow/faizdae?style=social)](https://twitter.com/faizdae)
 [![Linkedin: Faiz Ahmad](https://img.shields.io/badge/-faizahmaddae-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faiz-ahmad-dae-17b74a174/)](https://www.linkedin.com/in/faiz-ahmad-dae-17b74a174/)
 [![GitHub Faiz Ahmad](https://img.shields.io/github/followers/faizahmaddae?label=follow&style=social)](https://github.com/faizahmaddae)
-<p><a href="https://appjow.com">🌐 Check out my website</a></p>
+<p><a href="https://appjow.com">🌐 Check out my website</a></p><br>
