@@ -36,4 +36,6 @@ I’m currently open to contributions and collaborations. Feel free to connect w
 [![GitHub: faizahmaddae](https://img.shields.io/github/followers/faizahmaddae?label=Follow&style=social)](https://github.com/faizahmaddae)
 
 > 🌐 [Visit my website](https://appjow.com)
+>
+> [![CI](https://github.com/faizahmaddae/fli/actions/workflows/ci.yml/badge.svg)](https://github.com/faizahmaddae/fli/actions/workflows/ci.yml)
 
